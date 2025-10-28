@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
+    "@storybook/addon-a11y": "^9.1.15",
     "@storybook/react-vite": "^9.1.15",
     "@storybook/test-runner": "^0.23.0",
     "@types/node": "^24.6.0",
